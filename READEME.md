@@ -1,20 +1,20 @@
 REST Example :
 
-This repository includes a  REST API built with RestController using Spring boot framework.
+- This repository includes a  REST API built with RestController using Spring boot framework.
 
-This project uses H2 database.
-
-
-
-Run and Test :  To run the application type
+- This project uses H2 database.
 
 
 
-Endpoints : Content-Type : application/json header must be present to use API.
+- Run and Test :  To run the application type
 
 
 
-Add a product : /v1/products/product [POST]
+- Endpoints : Content-Type : application/json header must be present to use API.
+
+
+
+- Add a product : /v1/products/product [POST]
 	Content-Type : application/json
 
 	{
@@ -27,5 +27,5 @@ Add a product : /v1/products/product [POST]
 
 
 
-Get products by category :
+- Get products by category :
 	Example : v1/products/productsByCategory?category=apparel&page=1&size=10 [GET]
