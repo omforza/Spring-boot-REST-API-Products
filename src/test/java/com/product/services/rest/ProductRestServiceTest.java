@@ -14,7 +14,7 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 
-import com.product.commun.AbstractTest;
+import com.product.common.AbstractTest;
 import com.product.entities.Product;
 
 public class ProductRestServiceTest extends AbstractTest {
