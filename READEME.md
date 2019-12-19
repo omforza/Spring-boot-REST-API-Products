@@ -1,7 +1,7 @@
 REST Example
 This repository includes a  REST API built with RestController using Spring boot framework.
 
-This project uses H2 Spring boot database.
+This project uses H2 database.
 
 Run and Test
 To run the application type
