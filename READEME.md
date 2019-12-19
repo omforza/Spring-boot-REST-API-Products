@@ -10,12 +10,11 @@ Run and Test :  To run the application type
 
 
 
-Endpoints :  Important: Content-Type: application/json header must be present to use API.
+Endpoints : Content-Type: application/json header must be present to use API.
 
 
 
 Add a product : /v1/products/product [POST]
-
 Content-Type: application/json
 
 {
