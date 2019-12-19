@@ -15,7 +15,6 @@ REST Example :
 
 
 - Add a product : /v1/products/product [POST]
-	Content-Type : application/json
 
 	{
 		"name": String,
