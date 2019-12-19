@@ -3,7 +3,7 @@ This repository includes a  REST API built with RestController using Spring boot
 
 This project uses H2 database.
 
-Run and Test
+Run and Test :
 To run the application type
 
 Endpoints
